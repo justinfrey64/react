@@ -13,7 +13,7 @@ A collection of all of my React applications/examples
     <a href="https://github.com/justinfrey64/learning-react-chapters-1-through-12">Chapters 1-12</a>
   </li>
   <li>
-    <a href="https://github.com/justinfrey64/learning-react-chapter-13">Chapter 13</a>
+    <a href="https://github.com/justinfrey64/learning-react-chapter-13">Chapter 13</a> | 
     <a href="https://justinfrey64.github.io/learning-react-chapter-13">(Deployed Here)</a>
   </li>
   <li>
