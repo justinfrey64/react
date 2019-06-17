@@ -2,7 +2,7 @@
 A collection of all of my React applications/examples
 
 <h1>Learning React: A Hands-On Guide to Building Web Applications Using React and Redux, Second edition</h1>
-<h2>By Kirupa Chinnathambi</h2>
+<i>By Kirupa Chinnathambi</i>
 <p>
 </p> 
 <h3>Links to Chapters</h3>
