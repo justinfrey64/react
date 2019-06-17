@@ -3,9 +3,9 @@ A collection of all of my React applications/examples
 
 <h1>Learning React: A Hands-On Guide to Building Web Applications Using React and Redux, Second edition</h1>
 <i>By Kirupa Chinnathambi</i>
-<p>
+<p> This book was my introduction to the React framework and how it can be used for creating a cool UI experience.
 </p> 
-<h3>Links to Chapters</h3>
+<b>Links to Chapters</b>
 <ul>
   <li><a href="https://github.com/justinfrey64/learning-react-chapters-1-through-12">Chapters 1-12</a></li>
   <li><a href="https://github.com/justinfrey64/learning-react-chapter-13">Chapter 13</a></li>
