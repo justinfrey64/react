@@ -2,7 +2,7 @@
 A collection of all of my React applications/examples
 
 # Learning React: A Hands-On Guide to Building Web Applications Using React and Redux, Second edition
-
+# By Kirupa Chinnathambi 
 <h3>Links to Chapters</h3>
 <ul>
   <li><a href="https://github.com/justinfrey64/learning-react-chapters-1-through-12">Chapters 1-12</a></li>
